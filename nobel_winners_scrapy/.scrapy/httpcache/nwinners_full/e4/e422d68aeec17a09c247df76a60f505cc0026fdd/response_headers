@@ -1,0 +1,17 @@
+Content-Length: 245
+Date: Fri, 28 Jun 2024 19:11:43 GMT
+Server: mw-web.codfw.main-5486b6fcc7-fl2jw
+Location: https://www.wikidata.org/wiki/Q155525
+Expires: Sun, 28 Jul 2024 19:11:43 GMT
+Content-Type: text/html; charset=iso-8859-1
+Vary: X-Forwarded-Proto
+Age: 0
+X-Cache: cp2033 miss, cp2033 miss
+X-Cache-Status: miss
+Server-Timing: cache;desc="miss", host;desc="cp2033"
+Set-Cookie: WMF-Last-Access=28-Jun-2024;Path=/;HttpOnly;secure;Expires=Tue, 30 Jul 2024 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=28-Jun-2024;Path=/;Domain=.wikidata.org;HttpOnly;secure;Expires=Tue, 30 Jul 2024 12:00:00 GMT
+Set-Cookie: GeoIP=US:TX:Sugar_Land:29.58:-95.61:v4; Path=/; secure; Domain=.wikidata.org
+Set-Cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=Lax;Max-Age=3600
+X-Client-Ip: 151.213.179.103
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate

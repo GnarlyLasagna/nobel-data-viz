@@ -1,0 +1,22 @@
+Content-Length: 5115
+Date: Fri, 28 Jun 2024 18:21:45 GMT
+Cache-Control: s-maxage=3600, must-revalidate, max-age=0
+Vary: X-Subdomain
+Server: ATS/9.1.4
+X-Content-Type-Options: nosniff
+X-Article-Id: 19292575
+X-Language: en
+X-Site: wikipedia
+Last-Modified: Sat, 11 May 2024 01:15:26 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+Age: 1552
+X-Cache: cp2033 hit, cp2033 hit/84
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front", host;desc="cp2033"
+Set-Cookie: WMF-Last-Access=28-Jun-2024;Path=/;HttpOnly;secure;Expires=Tue, 30 Jul 2024 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=28-Jun-2024;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 30 Jul 2024 12:00:00 GMT
+Set-Cookie: GeoIP=US:TX:Sugar_Land:29.58:-95.61:v4; Path=/; secure; Domain=.wikipedia.org
+Set-Cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=Lax;Max-Age=3600
+X-Client-Ip: 151.213.179.103
+Accept-Ranges: bytes

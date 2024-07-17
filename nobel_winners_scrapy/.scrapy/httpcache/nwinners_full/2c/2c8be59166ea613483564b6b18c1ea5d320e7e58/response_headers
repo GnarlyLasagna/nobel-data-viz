@@ -1,0 +1,14 @@
+Content-Length: 245
+Date: Fri, 28 Jun 2024 19:12:02 GMT
+Server: mw-web.codfw.main-5486b6fcc7-9s27m
+Location: https://www.wikidata.org/wiki/Q187988
+Expires: Sun, 28 Jul 2024 19:12:02 GMT
+Content-Type: text/html; charset=iso-8859-1
+Vary: X-Forwarded-Proto
+Age: 0
+X-Cache: cp2027 miss, cp2033 miss
+X-Cache-Status: miss
+Server-Timing: cache;desc="miss", host;desc="cp2033"
+X-Client-Ip: 151.213.179.103
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=Lax;Max-Age=3600

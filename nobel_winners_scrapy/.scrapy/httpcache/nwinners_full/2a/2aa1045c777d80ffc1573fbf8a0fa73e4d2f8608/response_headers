@@ -1,0 +1,19 @@
+Date: Fri, 28 Jun 2024 19:11:46 GMT
+Server: mw-web.codfw.main-5486b6fcc7-ttk8w
+X-Content-Type-Options: nosniff
+Content-Language: en
+Link: <https://www.wikidata.org/wiki/Special:EntityData/Q183679.json>; rel="alternate"; type="application/json",<https://www.wikidata.org/wiki/Special:EntityData/Q183679.php>; rel="alternate"; type="application/vnd.php.serialized",<https://www.wikidata.org/wiki/Special:EntityData/Q183679.rdf>; rel="alternate"; type="application/rdf+xml",<https://www.wikidata.org/wiki/Special:EntityData/Q183679.n3>; rel="alternate"; type="text/n3",<https://www.wikidata.org/wiki/Special:EntityData/Q183679.ttl>; rel="alternate"; type="text/turtle",<https://www.wikidata.org/wiki/Special:EntityData/Q183679.nt>; rel="alternate"; type="application/n-triples",<https://www.wikidata.org/wiki/Special:EntityData/Q183679.jsonld>; rel="alternate"; type="application/ld+json"
+Origin-Trial: ApLpR6MUn4Lh8nkGvhnbTM6J/UEl9FzwnyUzj1+L4M7fLjGHhlQ0nwdQV4mTytVIm23utWp3MRt1coHkDydcHAwAAABleyJvcmlnaW4iOiJodHRwczovL3dpa2lkYXRhLm9yZzo0NDMiLCJmZWF0dXJlIjoiVG9wTGV2ZWxUcGNkIiwiZXhwaXJ5IjoxNzM1MzQzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=
+Accept-Ch: 
+Vary: Accept-Encoding,Cookie,Authorization
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Age: 0
+X-Cache: cp2031 miss, cp2033 miss
+X-Cache-Status: miss
+Server-Timing: cache;desc="miss", host;desc="cp2033"
+Set-Cookie: WMF-DP=520,a15,2fc,1a0,061,c6e,82e;Path=/;HttpOnly;secure;Expires=Sat, 29 Jun 2024 00:00:00 GMT
+Set-Cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=Lax;Max-Age=3600
+X-Client-Ip: 151.213.179.103
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Accept-Ranges: bytes

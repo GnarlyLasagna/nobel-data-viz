@@ -1,0 +1,19 @@
+Date: Fri, 28 Jun 2024 19:11:44 GMT
+Server: mw-web.codfw.main-5486b6fcc7-hctdz
+X-Content-Type-Options: nosniff
+Content-Language: en
+Origin-Trial: AonOP4SwCrqpb0nhZbg554z9iJimP3DxUDB8V4yu9fyyepauGKD0NXqTknWi4gnuDfMG6hNb7TDUDTsl0mDw9gIAAABmeyJvcmlnaW4iOiJodHRwczovL3dpa2lwZWRpYS5vcmc6NDQzIiwiZmVhdHVyZSI6IlRvcExldmVsVHBjZCIsImV4cGlyeSI6MTczNTM0Mzk5OSwiaXNTdWJkb21haW4iOnRydWV9
+Accept-Ch: 
+Vary: Accept-Encoding,Cookie,Authorization
+Last-Modified: Sun, 23 Jun 2024 17:59:35 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Age: 0
+X-Cache: cp2033 miss, cp2033 miss
+X-Cache-Status: miss
+Server-Timing: cache;desc="miss", host;desc="cp2033"
+Set-Cookie: WMF-DP=121,11e,573,31c,074,bb5,dbe,b40;Path=/;HttpOnly;secure;Expires=Sat, 29 Jun 2024 00:00:00 GMT
+Set-Cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=Lax;Max-Age=3600
+X-Client-Ip: 151.213.179.103
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Accept-Ranges: bytes
